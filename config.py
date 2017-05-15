@@ -1,0 +1,5 @@
+screenName = "@your_twitter_account"
+consumerKey = ""
+consumerSecret = ""
+accessToken = ""
+accessSecret = ""
