@@ -35,7 +35,7 @@ This code is set up so that anyone who wants to have the same type of Twitter re
 
 ## Installation
 
-To run the code just clone this repo, set the config.py parameters and run "python tamaletracker.py"
+To run the code just clone this repo, set the config.py parameters and run "python main.py"
 
 ## License
 
